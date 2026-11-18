@@ -1,0 +1,21 @@
+{
+  "name": "vrn-stone-crushers-erp",
+  "version": "2.0.0",
+  "description": "VRN Stone Crushers Accounts & Operations Management Portal",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node --experimental-sqlite server.js",
+    "test": "node test_suite.js",
+    "test:remote": "node test_remote.js"
+  },
+  "keywords": [
+    "stone-crusher",
+    "accounting",
+    "erp",
+    "pnl"
+  ],
+  "license": "ISC"
+}

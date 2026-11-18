@@ -1,0 +1,1559 @@
+[
+  {
+    "code": "1001",
+    "name": "Land & Building",
+    "group": "Assets",
+    "subgroup": "Fixed Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1002",
+    "name": "Plant & Machinery",
+    "group": "Assets",
+    "subgroup": "Fixed Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1003",
+    "name": "Furniture & Fixtures",
+    "group": "Assets",
+    "subgroup": "Fixed Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1004",
+    "name": "Office Equipment",
+    "group": "Assets",
+    "subgroup": "Fixed Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1005",
+    "name": "Vehicles",
+    "group": "Assets",
+    "subgroup": "Fixed Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1006",
+    "name": "Computers & IT Equipment",
+    "group": "Assets",
+    "subgroup": "Fixed Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1007",
+    "name": "Accumulated Depreciation",
+    "group": "Assets",
+    "subgroup": "Fixed Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1101",
+    "name": "Short-term Investments",
+    "group": "Assets",
+    "subgroup": "Current Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1102",
+    "name": "Other Current Assets",
+    "group": "Assets",
+    "subgroup": "Current Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1201",
+    "name": "CASH",
+    "group": "Assets",
+    "subgroup": "Cash & Bank",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Cash & Bank"
+  },
+  {
+    "code": "1202",
+    "name": "Petty Cash",
+    "group": "Assets",
+    "subgroup": "Cash & Bank",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Cash & Bank"
+  },
+  {
+    "code": "1203",
+    "name": "Bank Account - Current",
+    "group": "Assets",
+    "subgroup": "Cash & Bank",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Cash & Bank"
+  },
+  {
+    "code": "1204",
+    "name": "Bank Account - Savings",
+    "group": "Assets",
+    "subgroup": "Cash & Bank",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Cash & Bank"
+  },
+  {
+    "code": "1301",
+    "name": "Accounts Receivable (Debtors)",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "1302",
+    "name": "Bills Receivable",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "1401",
+    "name": "Staff Loans & Receivables",
+    "group": "Assets",
+    "subgroup": "Other Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1402",
+    "name": "Other Receivables",
+    "group": "Assets",
+    "subgroup": "Other Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1403",
+    "name": "Input VAT/GST Receivable",
+    "group": "Assets",
+    "subgroup": "Other Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1501",
+    "name": "Inventory - Goods for Sale",
+    "group": "Assets",
+    "subgroup": "Inventory",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1502",
+    "name": "Raw Materials",
+    "group": "Assets",
+    "subgroup": "Inventory",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1503",
+    "name": "Finished Goods",
+    "group": "Assets",
+    "subgroup": "Inventory",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1601",
+    "name": "Prepaid Rent",
+    "group": "Assets",
+    "subgroup": "Prepaid Expenses",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1602",
+    "name": "Prepaid Insurance",
+    "group": "Assets",
+    "subgroup": "Prepaid Expenses",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1603",
+    "name": "Other Prepayments",
+    "group": "Assets",
+    "subgroup": "Prepaid Expenses",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1701",
+    "name": "Advances to Suppliers",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "1702",
+    "name": "Advances to Employees",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "2001",
+    "name": "Share Capital / Owner's Capital",
+    "group": "Liabilities",
+    "subgroup": "Equity / Capital",
+    "type": "Equity",
+    "nature": "Credit",
+    "classification": "Equity / Capital"
+  },
+  {
+    "code": "2002",
+    "name": "Drawings",
+    "group": "Liabilities",
+    "subgroup": "Equity / Capital",
+    "type": "Equity",
+    "nature": "Credit",
+    "classification": "Equity / Capital"
+  },
+  {
+    "code": "2101",
+    "name": "General Reserve",
+    "group": "Liabilities",
+    "subgroup": "Reserves & Surplus",
+    "type": "Equity",
+    "nature": "Credit",
+    "classification": "Equity / Capital"
+  },
+  {
+    "code": "2102",
+    "name": "Other Reserves",
+    "group": "Liabilities",
+    "subgroup": "Reserves & Surplus",
+    "type": "Equity",
+    "nature": "Credit",
+    "classification": "Equity / Capital"
+  },
+  {
+    "code": "2201",
+    "name": "Retained Earnings (Brought Forward)",
+    "group": "Liabilities",
+    "subgroup": "Retained Earnings",
+    "type": "Equity",
+    "nature": "Credit",
+    "classification": "Equity / Capital"
+  },
+  {
+    "code": "2301",
+    "name": "Accounts Payable (Creditors)",
+    "group": "Liabilities",
+    "subgroup": "Trade Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2302",
+    "name": "Bills Payable",
+    "group": "Liabilities",
+    "subgroup": "Trade Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2401",
+    "name": "Other Payables",
+    "group": "Liabilities",
+    "subgroup": "Other Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2402",
+    "name": "Customer Deposits",
+    "group": "Liabilities",
+    "subgroup": "Other Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2403",
+    "name": "Payroll Liabilities",
+    "group": "Liabilities",
+    "subgroup": "Other Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2501",
+    "name": "Bank Loan",
+    "group": "Liabilities",
+    "subgroup": "Loans & Borrowings",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2502",
+    "name": "Bank Overdraft",
+    "group": "Liabilities",
+    "subgroup": "Loans & Borrowings",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2503",
+    "name": "Loans from Owners / Directors",
+    "group": "Liabilities",
+    "subgroup": "Loans & Borrowings",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2601",
+    "name": "Provision for Tax",
+    "group": "Liabilities",
+    "subgroup": "Provisions",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2602",
+    "name": "Provision for Employee Benefits",
+    "group": "Liabilities",
+    "subgroup": "Provisions",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2701",
+    "name": "Accrued Expenses",
+    "group": "Liabilities",
+    "subgroup": "Accrued Expenses",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2702",
+    "name": "Accrued Salaries",
+    "group": "Liabilities",
+    "subgroup": "Accrued Expenses",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "2801",
+    "name": "Output VAT/GST Payable",
+    "group": "Liabilities",
+    "subgroup": "VAT/GST Payable",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "4001",
+    "name": "Sales - Products",
+    "group": "Income",
+    "subgroup": "Sales",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Sales Income"
+  },
+  {
+    "code": "4002",
+    "name": "Sales Returns & Allowances",
+    "group": "Income",
+    "subgroup": "Sales",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Sales Income"
+  },
+  {
+    "code": "4101",
+    "name": "Service Revenue",
+    "group": "Income",
+    "subgroup": "Service Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "4102",
+    "name": "Consulting Income",
+    "group": "Income",
+    "subgroup": "Service Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "4201",
+    "name": "Other Income",
+    "group": "Income",
+    "subgroup": "Other Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "4202",
+    "name": "Gain on Asset Disposal",
+    "group": "Income",
+    "subgroup": "Other Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "4203",
+    "name": "Discount Received",
+    "group": "Income",
+    "subgroup": "Other Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "4301",
+    "name": "Interest Income",
+    "group": "Income",
+    "subgroup": "Finance Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "4302",
+    "name": "Dividend Income",
+    "group": "Income",
+    "subgroup": "Finance Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "5001",
+    "name": "Cost of Goods Sold",
+    "group": "Expenses",
+    "subgroup": "Cost of Sales",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5002",
+    "name": "Direct Labour",
+    "group": "Expenses",
+    "subgroup": "Cost of Sales",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5003",
+    "name": "Freight Inward",
+    "group": "Expenses",
+    "subgroup": "Cost of Sales",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5101",
+    "name": "Purchases",
+    "group": "Expenses",
+    "subgroup": "Purchases",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5102",
+    "name": "Purchase Returns",
+    "group": "Expenses",
+    "subgroup": "Purchases",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5201",
+    "name": "Salaries & Wages",
+    "group": "Expenses",
+    "subgroup": "Salaries & Wages",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5202",
+    "name": "Employee Benefits",
+    "group": "Expenses",
+    "subgroup": "Salaries & Wages",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5203",
+    "name": "Bonus & Overtime",
+    "group": "Expenses",
+    "subgroup": "Salaries & Wages",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5301",
+    "name": "Rent Expense",
+    "group": "Expenses",
+    "subgroup": "Rent",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5401",
+    "name": "Electricity & Water",
+    "group": "Expenses",
+    "subgroup": "Utilities",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5402",
+    "name": "Telephone & Internet",
+    "group": "Expenses",
+    "subgroup": "Utilities",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5501",
+    "name": "Freight Outward",
+    "group": "Expenses",
+    "subgroup": "Transportation",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5502",
+    "name": "Vehicle Running Expenses",
+    "group": "Expenses",
+    "subgroup": "Transportation",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5503",
+    "name": "Travel & Conveyance",
+    "group": "Expenses",
+    "subgroup": "STAFF TRAVEL ALLOWANCE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5601",
+    "name": "Advertising",
+    "group": "Expenses",
+    "subgroup": "Advertising & Marketing",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5602",
+    "name": "Sales Promotion",
+    "group": "Expenses",
+    "subgroup": "Advertising & Marketing",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5701",
+    "name": "Stationery & Printing",
+    "group": "Expenses",
+    "subgroup": "Office Expenses",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5702",
+    "name": "Office Supplies",
+    "group": "Expenses",
+    "subgroup": "Office Expenses",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5703",
+    "name": "Professional Fees",
+    "group": "Expenses",
+    "subgroup": "Office Expenses",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5801",
+    "name": "Repairs & Maintenance",
+    "group": "Expenses",
+    "subgroup": "Repairs & Maintenance",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "5901",
+    "name": "Bank Charges",
+    "group": "Expenses",
+    "subgroup": "Bank Charges",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6001",
+    "name": "Interest Expense",
+    "group": "Expenses",
+    "subgroup": "Finance Costs",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6002",
+    "name": "Loan Processing Fees",
+    "group": "Expenses",
+    "subgroup": "Finance Costs",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6101",
+    "name": "Depreciation Expense",
+    "group": "Expenses",
+    "subgroup": "Depreciation",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6201",
+    "name": "Insurance",
+    "group": "Expenses",
+    "subgroup": "Other Operating Expenses",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6202",
+    "name": "Miscellaneous Expenses",
+    "group": "Expenses",
+    "subgroup": "Other Operating Expenses",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6203",
+    "name": "Bad Debts Written Off",
+    "group": "Expenses",
+    "subgroup": "Other Operating Expenses",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6204",
+    "name": "DUST SALES",
+    "group": "Income",
+    "subgroup": "Sales",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Sales Income"
+  },
+  {
+    "code": "6205",
+    "name": "P SAND SALES",
+    "group": "Income",
+    "subgroup": "Sales",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Sales Income"
+  },
+  {
+    "code": "6206",
+    "name": "M SAND SALES",
+    "group": "Income",
+    "subgroup": "Sales",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Sales Income"
+  },
+  {
+    "code": "6207",
+    "name": "FOOD EXPENSE",
+    "group": "Expenses",
+    "subgroup": "STAFF EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6208",
+    "name": "GATE PASS EXPENSE",
+    "group": "Expenses",
+    "subgroup": "STAFF EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6209",
+    "name": "CRUSHER EXP",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6210",
+    "name": "COMMISION EXPENSE",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6211",
+    "name": "FUEL EXPENSE",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6212",
+    "name": "DRIVER EXPENSE",
+    "group": "Expenses",
+    "subgroup": "DRIVER EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6213",
+    "name": "WATER BILL BOOK",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6214",
+    "name": "GASEEB",
+    "group": "Liabilities",
+    "subgroup": "Trade Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "6215",
+    "name": "ADVANCE TO DIRECT LABOUR",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6216",
+    "name": "LABOUR CHARGES",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6217",
+    "name": "MEDANI CRUSHER",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6218",
+    "name": "SHYAM 7276",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6219",
+    "name": "20 MM SALES",
+    "group": "Income",
+    "subgroup": "Sales",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Sales Income"
+  },
+  {
+    "code": "6220",
+    "name": "VEHICLE REPAIR AND MAINTAINANCE",
+    "group": "Expenses",
+    "subgroup": "VEHICLE REPAIR AND MAINTENANCE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6221",
+    "name": "CURRENT ACCOUNT",
+    "group": "Liabilities",
+    "subgroup": "CURRENT ACCOUNT",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "6222",
+    "name": "STAFF ACCOMODATION",
+    "group": "Expenses",
+    "subgroup": "STAFF EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6223",
+    "name": "SUSPENSE ACCOUNT",
+    "group": "Liabilities",
+    "subgroup": "CURRENT ACCOUNT",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "6224",
+    "name": "OFFICE EXPENSE",
+    "group": "Expenses",
+    "subgroup": "Office Expenses",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6225",
+    "name": "STAFF EXPENSE",
+    "group": "Expenses",
+    "subgroup": "STAFF EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6226",
+    "name": "SLURRY SALES",
+    "group": "Income",
+    "subgroup": "Sales",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Sales Income"
+  },
+  {
+    "code": "6227",
+    "name": "DONATION",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6228",
+    "name": "OTHER EXPENSE",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6229",
+    "name": "ADVANCE FOR STAFF ROOM",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6230",
+    "name": "REJI",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6231",
+    "name": "KA 09 B9537",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6232",
+    "name": "HNS",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6233",
+    "name": "RAVI ANNAN",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6234",
+    "name": "KA 16 B1965",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6235",
+    "name": "KA 54 0860",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6236",
+    "name": "PERMIT",
+    "group": "Income",
+    "subgroup": "Other Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "6237",
+    "name": "TANK WATER",
+    "group": "Expenses",
+    "subgroup": "Utilities",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6238",
+    "name": "ELECTRICIAN EXPENSE",
+    "group": "Expenses",
+    "subgroup": "ELECTRICIAN EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6239",
+    "name": "FOOD EXP MNGT",
+    "group": "Expenses",
+    "subgroup": "FOOD EXPENSE MANAGEMENT",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6240",
+    "name": "FOOD STAFF EXPENSE",
+    "group": "Expenses",
+    "subgroup": "FOOD STAFF EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6241",
+    "name": "MOTOR REPAIRING",
+    "group": "Expenses",
+    "subgroup": "MOTOR REPAIRING",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6242",
+    "name": "RAVI ANNAN ADVANCE",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6243",
+    "name": "MOJAHID ADVANCE",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6244",
+    "name": "PERMIT SALES",
+    "group": "Income",
+    "subgroup": "Other Income",
+    "type": "Income",
+    "nature": "Credit",
+    "classification": "Other Income"
+  },
+  {
+    "code": "6245",
+    "name": "JCB DIESEL",
+    "group": "Expenses",
+    "subgroup": "JCB DIESEL",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6246",
+    "name": "JEEP DIESEL",
+    "group": "Expenses",
+    "subgroup": "JEEP DIESEL",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6247",
+    "name": "BIKE PETROL",
+    "group": "Expenses",
+    "subgroup": "BIKE PETROL",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6248",
+    "name": "JCB MAINT",
+    "group": "Expenses",
+    "subgroup": "JCB MAINT",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6249",
+    "name": "JEEP MAINT",
+    "group": "Expenses",
+    "subgroup": "JEEP MAINT",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6250",
+    "name": "SALARY GULAM",
+    "group": "Expenses",
+    "subgroup": "SALARY GULAM",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6251",
+    "name": "GULAM ADVANCE",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6252",
+    "name": "SALARY MUHSIN",
+    "group": "Expenses",
+    "subgroup": "SALARY MUHSIN",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6253",
+    "name": "SALARY NIYAS",
+    "group": "Expenses",
+    "subgroup": "SALARY NIYAS",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6254",
+    "name": "MUHSIN ADVANCE",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6255",
+    "name": "NIYAS ADVANCE",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6256",
+    "name": "electrical expenses",
+    "group": "Expenses",
+    "subgroup": "electrical expense",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6257",
+    "name": "HITACHI DIESEL",
+    "group": "Expenses",
+    "subgroup": "HITACHI DIESEL",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6258",
+    "name": "Weight Bridge Checking Penalty",
+    "group": "Expenses",
+    "subgroup": "Weight Bridge Checking Penalty",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6259",
+    "name": "Weight Bridge Configuration Fees",
+    "group": "Expenses",
+    "subgroup": "Weight Bridge Configuration Fees",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6260",
+    "name": "ROOM RENT STAFF",
+    "group": "Expenses",
+    "subgroup": "ROOM RENT STAFF",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6261",
+    "name": "JEEVAN",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6262",
+    "name": "TRAFFIC POLICE",
+    "group": "Expenses",
+    "subgroup": "TRAFFIC POLICE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6263",
+    "name": "Office wifi recharge",
+    "group": "Expenses",
+    "subgroup": "Office wifi recharge",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6264",
+    "name": "MOBILE PHONE",
+    "group": "Assets",
+    "subgroup": "Fixed Assets",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6265",
+    "name": "BODY LEVELING",
+    "group": "Expenses",
+    "subgroup": "BODY LEVELING",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6266",
+    "name": "VISHWANATH",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6267",
+    "name": "JCB OPERATOR",
+    "group": "Expenses",
+    "subgroup": "JCB OPERATOR",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6268",
+    "name": "MEDICAL EXPENSE",
+    "group": "Expenses",
+    "subgroup": "MEDICAL EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6269",
+    "name": "management room advance",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6270",
+    "name": "noushad salary adv",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6271",
+    "name": "sreenivas",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6272",
+    "name": "management room",
+    "group": "Expenses",
+    "subgroup": "management room",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6273",
+    "name": "KA11C0530",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6274",
+    "name": "ramzan current account",
+    "group": "Liabilities",
+    "subgroup": "Trade Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "6275",
+    "name": "KA34 2865",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6276",
+    "name": "KA35 7472",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6277",
+    "name": "PRAVEEN",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6278",
+    "name": "HITACHI WORK",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6279",
+    "name": "HITACHI OP",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6280",
+    "name": "KA18C4954",
+    "group": "Assets",
+    "subgroup": "Trade Receivables",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Customer (Receivable)"
+  },
+  {
+    "code": "6281",
+    "name": "management deed expense",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6282",
+    "name": "CRUSHER MAINT",
+    "group": "Expenses",
+    "subgroup": "crusher maint",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6283",
+    "name": "MANAGEMENT TRAVELLING",
+    "group": "Expenses",
+    "subgroup": "MANAGEMENT TRAVELLING",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6284",
+    "name": "AUDIT AND ACCOUNTS",
+    "group": "Expenses",
+    "subgroup": "ADMINISTRATIVE EXPENSE",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6285",
+    "name": "RIZU SALARY",
+    "group": "Expenses",
+    "subgroup": "RIZU SALARY",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6286",
+    "name": "SALARY PAYABLE",
+    "group": "Liabilities",
+    "subgroup": "Other Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "6287",
+    "name": "NOUSHAD SALARY",
+    "group": "Expenses",
+    "subgroup": "NOUSHAD SALARY",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6288",
+    "name": "SAIDALAVI ADVANCE",
+    "group": "Assets",
+    "subgroup": "Advances",
+    "type": "Asset",
+    "nature": "Debit",
+    "classification": "Other Asset / Advance"
+  },
+  {
+    "code": "6289",
+    "name": "SAIDALAVI SALARY",
+    "group": "Expenses",
+    "subgroup": "SAIDALAVI SALARY",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6290",
+    "name": "AMIR SALARY",
+    "group": "Expenses",
+    "subgroup": "AMIR SALARY",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6291",
+    "name": "RAVI ANNAN STONE",
+    "group": "Liabilities",
+    "subgroup": "Trade Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "6292",
+    "name": "RAVI ANNAN PURCHASE",
+    "group": "Expenses",
+    "subgroup": "Cost of Sales",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6293",
+    "name": "MOJAHID DIRECT EXP",
+    "group": "Expenses",
+    "subgroup": "MOJAHID DIRECT EXP",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6294",
+    "name": "stock",
+    "group": "Expenses",
+    "subgroup": "Cost of Sales",
+    "type": "Expense",
+    "nature": "Debit",
+    "classification": "Expense"
+  },
+  {
+    "code": "6295",
+    "name": "ELECTRICITY PAYABLE",
+    "group": "Liabilities",
+    "subgroup": "Trade Payables",
+    "type": "Liability",
+    "nature": "Credit",
+    "classification": "Payable / Liability"
+  },
+  {
+    "code": "6296",
+    "name": "PARTNERS PROFIT SHARE",
+    "group": "Liabilities",
+    "subgroup": "Equity / Capital",
+    "type": "Equity",
+    "nature": "Credit",
+    "classification": "Equity / Capital"
+  }
+]
